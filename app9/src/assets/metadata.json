@@ -1,0 +1,63 @@
+{
+    "audio":[
+        {
+            "label": "May it be",
+            "duration": "4:17",
+            "audioFile": "may_it_be.mp3"
+        },
+        
+        {
+            "label": "Concerning Hobbits",
+            "duration": "2:54",
+            "audioFile": "concerning_hobbits.mp3"
+        },
+
+        {
+            "label": "Treason of Isengard",
+            "duration": "4:00",
+            "audioFile": "treason_of_isengard.mp3"
+        },
+        
+        {
+            "label": "The Breaking of the Fellowship",
+            "duration": "7:20",
+            "audioFile": "the_breaking_of_the_fellowship.mp3"
+        },
+
+        {
+            "label": "The Great River",
+            "duration": "2:42",
+            "audioFile": "the_great_river.mp3"
+        },
+
+        {
+            "label": "Lothlorien",
+            "duration": "4:33",
+            "audioFile": "lothlorien.mp3"
+        },
+
+        {
+            "label": "The Bridge of Khazad Dum",
+            "duration": "5:56",
+            "audioFile": "the_bridge_of_khazad_dum.mp3"
+        },
+
+        {
+            "label": "A Journey in the Dark",
+            "duration": "4:19",
+            "audioFile": "a_journey_in_the_dark.mp3"
+        },
+
+        {
+            "label": "The Black Rider",
+            "duration": "2:47",
+            "audioFile": "the_black_rider.mp3"
+        },
+
+        {
+            "label": "At the Sign of the Prancing Pony",
+            "duration": "3:13",
+            "audioFile": "at_the_sign_of_the_prancing_pony.mp3"
+        }
+    ]
+}
