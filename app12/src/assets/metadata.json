@@ -1,0 +1,53 @@
+{
+    "cats":[
+        {
+            "name": "Gremlin 1",
+            "image": "grem.jpg"
+        },
+        
+        {
+            "name": "Gremlin 2",
+            "image": "grem_1.jpg"
+        },
+
+        {
+            "name": "Gremlin 3",
+            "image": "grem_2.jpg"
+        },
+
+        {
+            "name": "Gremlin 4",
+            "image": "grem_3.jpg"
+        },
+
+        {
+            "name": "Gremlin 5",
+            "image": "grem_4.jpg"
+        },
+        
+        {
+            "name": "Gremlin 6",
+            "image": "grem_5.jpg"
+        },
+
+        {
+            "name": "Gremlin 7",
+            "image": "grem_6.jpg"
+        },
+
+        {
+            "name": "Gremlin 8",
+            "image": "grem_7.jpg"
+        },
+
+        {
+            "name": "Gremlin 9",
+            "image": "grem_8.jpg"
+        },
+
+        {
+            "name": "Gremlin 10",
+            "image": "grem_9.jpg"
+        }
+    ]
+}
